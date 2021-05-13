@@ -8,4 +8,5 @@
 
 .context_n{
   position: absolute;
+  opacity: inherit;
 }
