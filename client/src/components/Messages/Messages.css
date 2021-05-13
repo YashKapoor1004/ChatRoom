@@ -11,4 +11,5 @@
   opacity: inherit;
   z-index: inherit;
   display: none;
+  overflow: hidden;
 }
