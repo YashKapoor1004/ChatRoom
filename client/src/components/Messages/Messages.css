@@ -10,4 +10,5 @@
   position: absolute;
   opacity: inherit;
   z-index: inherit;
+  display: none;
 }
